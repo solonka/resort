@@ -3,10 +3,16 @@ h1
    font-style: normal;
    font-family: sans-serif;
    text-align: center;
+   color: green;
 }
 body
 {
   background-color: grey;
   text-align: center;
   color: black;
+}
+ul
+{
+  display: inline-table;
+  font-style: italic;
 }
